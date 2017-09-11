@@ -1,0 +1,6 @@
+framework module PLUUIComponents {
+  umbrella header "PLUUIComponents.h"
+
+  export *
+  module * { export * }
+}
