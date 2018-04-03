@@ -10,6 +10,7 @@
 
 #import "PLUBlurView.h"
 #import "ZFCWaveActivityIndicatorView.h"
+#import "THLabel.h"
 #import "PLUBarrageView.h"
 #import "PLUAirPlayView.h"
 
